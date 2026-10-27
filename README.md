@@ -69,8 +69,8 @@ EcommerceUI/
 
 ```bash
 # 1. clone the repository
-git clone https://github.com/aamirali65/Ecommerce-App-With-SharedPreferences.git
-cd Ecommerce-App-With-SharedPreferences/EcommerceUI
+git clone https://github.com/aamirali65/flutter-ecommerce-offline.git
+cd flutter-ecommerce-offline/EcommerceUI
 
 # 2. install dependencies
 flutter pub get
